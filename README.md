@@ -26,10 +26,6 @@ CSS – for styling, animations, and responsive design
 
 JavaScript – for game logic, input handling, collision detection, and dynamic DOM updates
 
-
-https://github.com/user-attachments/assets/9a13a911-be69-4514-9e5c-5e127cf24108
-
-
 🚀 How to Play->
 Use Arrow Keys to control the snake:
 ↑ Up,
@@ -38,3 +34,9 @@ Use Arrow Keys to control the snake:
 → Right,
 Eat food to grow your snake and increase your score.
 Avoid colliding with the walls or yourself.
+
+
+https://github.com/user-attachments/assets/9a13a911-be69-4514-9e5c-5e127cf24108
+
+
+
