@@ -19,6 +19,7 @@ LocalStorage support to save high scores
 Sound effects for movement, food, and game over
 
 🛠️ Technologies Used->
+
 HTML – for the game layout and structure
 
 CSS – for styling, animations, and responsive design
