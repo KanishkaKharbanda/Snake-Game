@@ -81,3 +81,10 @@ The main objective of this project is to recreate the traditional snake game wit
 * Game over UI with score summary and high score tracking.
 * Progressive difficulty via automatic speed increase.
 * Visually styled and responsive layout with clear color-coded elements.
+
+https://github.com/user-attachments/assets/e9003c3f-b459-4cc4-92f0-3d6ae1705b31
+
+
+
+
+  
